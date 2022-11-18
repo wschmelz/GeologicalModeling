@@ -1,6 +1,3 @@
-import sys
-import numpy
-
 ##define LOESS algorithm
 
 def loess(x_interp,t_series_x,t_series_z,pt_min_r,dist_r,factor):
