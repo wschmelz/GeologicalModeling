@@ -4,7 +4,7 @@ import numpy
 ##define LOESS algorithm
 
 def loess(x_interp,t_series_x,t_series_z,pt_min_r,dist_r,factor):
-    import sys
+    
     output = numpy.zeros(len(x_interp))
     
     for location in range(0,len(output)):
