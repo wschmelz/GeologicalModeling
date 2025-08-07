@@ -60,15 +60,15 @@ data and code available on request (1.5 GB).
 
 ## 1.1 ArcGIS - Importing data, setting symbology, creating and editing a shapefile, and making a map<a href="#1.1-ArcGIS---Importing-data,-setting-symbology,-creating-and-editing-a-shapefile,-and-making-a-map" class="anchor-link">¶</a>
 
-![image-5.png](docs\assets\1e9e6c1b6ea0b742d6c8d50610bf97e9af397fbb.png)
+![image-5.png](docs/assets/1e9e6c1b6ea0b742d6c8d50610bf97e9af397fbb.png)
 
 ## 1.2 Spatial analysis in ArcGIS applied to geomorphological map of Fire Island, NY<a href="#1.2-Spatial-analysis-in-ArcGIS-applied-to-geomorphological-map-of-Fire-Island,-NY" class="anchor-link">¶</a>
 
-![image-4.png](docs\assets\a35a09a718b8312091cc95489518430730423829.png)
+![image-4.png](docs/assets/a35a09a718b8312091cc95489518430730423829.png)
 
 ## 1.3 Programmatically quantify geomorphological change occuring due to Superstorm Sandy at Fire Island using geomorpholgical maps, lidar, and ArcPy<a href="#1.3-Programmatically-quantify-geomorphological-change-occuring-due-to-Superstorm-Sandy-at-Fire-Island-using-geomorpholgical-maps,-lidar,-and-ArcPy" class="anchor-link">¶</a>
 
-![image.png](docs\assets\ad4431f8d05313dfabfc4a2b3c321f55ab780db1.png)
+![image.png](docs/assets/ad4431f8d05313dfabfc4a2b3c321f55ab780db1.png)
 
 </div>
 
@@ -105,15 +105,15 @@ Data for part 2 available on request (121 MB).
 
 Real image:
 
-![image.png](docs\assets\4428a161d24004d2f1d256657106dd5746296a41.png)
+![image.png](docs/assets/4428a161d24004d2f1d256657106dd5746296a41.png)
 
 3D model:
 
-![image-2.png](docs\assets\6c53cd9c38d47378d0dc1197756889174b1c2fd0.png)
+![image-2.png](docs/assets/6c53cd9c38d47378d0dc1197756889174b1c2fd0.png)
 
 ## 2.2 Photogrammetric model of beach and dune in Monmouth Beach, NJ<a href="#2.2-Photogrammetric-model-of-beach-and-dune-in-Monmouth-Beach,-NJ" class="anchor-link">¶</a>
 
-![image-3.png](docs\assets\d2e51719d1bee9b46a292380139fce52b9f5558c.png)
+![image-3.png](docs/assets/d2e51719d1bee9b46a292380139fce52b9f5558c.png)
 
 </div>
 
@@ -1662,7 +1662,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\b7d69e6a36e7c30ea7c36cd31eddf35f7a66587d.png" class="jp-needs-light-background" />
+<img src="docs/assets/b7d69e6a36e7c30ea7c36cd31eddf35f7a66587d.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -1939,7 +1939,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\72277f4e973be3daa00ce128fda813aa416416b1.png" class="jp-needs-light-background" />
+<img src="docs/assets/72277f4e973be3daa00ce128fda813aa416416b1.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -2091,7 +2091,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\0c84abf1314c34885227a5d54c8d39993a633ad9.png" class="jp-needs-light-background" />
+<img src="docs/assets/0c84abf1314c34885227a5d54c8d39993a633ad9.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -2211,7 +2211,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\408f52f95fdf6cd0732cbbbea6167203dd3863d4.png" class="jp-needs-light-background" />
+<img src="docs/assets/408f52f95fdf6cd0732cbbbea6167203dd3863d4.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -2378,7 +2378,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\ba4559850d86785d8e5538c3046c7d246645f30c.png" class="jp-needs-light-background" />
+<img src="docs/assets/ba4559850d86785d8e5538c3046c7d246645f30c.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -2505,7 +2505,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\6538b65a534eb4c9803e1236f5bfec5360b3594f.png" class="jp-needs-light-background" />
+<img src="docs/assets/6538b65a534eb4c9803e1236f5bfec5360b3594f.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -2657,7 +2657,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\91158d65ddf6fd65211757d3bb1c373d74684096.png" class="jp-needs-light-background" />
+<img src="docs/assets/91158d65ddf6fd65211757d3bb1c373d74684096.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -2792,7 +2792,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\29ae43db5680506cfb1d76e55b35d28dffd60ae1.png" class="jp-needs-light-background" />
+<img src="docs/assets/29ae43db5680506cfb1d76e55b35d28dffd60ae1.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -2946,7 +2946,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\84ef8212df7a496e3cb1641e0199fcc4036da363.png" class="jp-needs-light-background" />
+<img src="docs/assets/84ef8212df7a496e3cb1641e0199fcc4036da363.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -3120,7 +3120,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\ff613b592723dcb08452f66f0920ba1f3a41162a.png" class="jp-needs-light-background" />
+<img src="docs/assets/ff613b592723dcb08452f66f0920ba1f3a41162a.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -3337,7 +3337,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\ccb5e538287bdc7c7ac46dd8347a6afdc6da88b7.png" class="jp-needs-light-background" />
+<img src="docs/assets/ccb5e538287bdc7c7ac46dd8347a6afdc6da88b7.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -3546,7 +3546,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\003f320bf930e850f0e98986c7787418bd54591b.png" class="jp-needs-light-background" />
+<img src="docs/assets/003f320bf930e850f0e98986c7787418bd54591b.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -3736,7 +3736,7 @@ Instructions for application here (), data and code available on request
 <div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput"
 mime-type="text/markdown">
 
-![Map1.png](docs\assets\497abeddc719aeebe86237751e3dc94380839018.png)
+![Map1.png](docs/assets/497abeddc719aeebe86237751e3dc94380839018.png)
 
 </div>
 
@@ -3910,7 +3910,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\26531535cbb5adfe2b9a3e3e4850214703d05caf.png" class="jp-needs-light-background" />
+<img src="docs/assets/26531535cbb5adfe2b9a3e3e4850214703d05caf.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -3946,7 +3946,7 @@ regression model
 
 b$\_1$ is the slope, and b$\_0$ is the intercept
 
-![image.png](docs\assets\84f756753771477173f066deb75311ba130c3469.png)
+![image.png](docs/assets/84f756753771477173f066deb75311ba130c3469.png)
 
 #### 6.2.1 Calculate regression model parameters, and estimate error<a href="#6.2.1-Calculate-regression-model-parameters,-and-estimate-error" class="anchor-link">¶</a>
 
@@ -4205,7 +4205,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\17639cb9dc4233f3ec62cc3667c9c3f55b0d8f9f.png" class="jp-needs-light-background" />
+<img src="docs/assets/17639cb9dc4233f3ec62cc3667c9c3f55b0d8f9f.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -4240,7 +4240,7 @@ y is the data, which is a function of several coefficients
 (b$\_1$,...,b$\_n$), several independent variables (x$\_1$,...,x$\_n$),
 and some amount of noise, ε.
 
-![image.png](docs\assets\7f28c65425372f4c535df31513ed5010baec4698.png)
+![image.png](docs/assets/7f28c65425372f4c535df31513ed5010baec4698.png)
 
 </div>
 
@@ -4421,7 +4421,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\019cc261d690b339d971e9bde4b095eaeded700d.png" class="jp-needs-light-background" />
+<img src="docs/assets/019cc261d690b339d971e9bde4b095eaeded700d.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -4728,7 +4728,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\9b0bfc34fe36fd972bcd903671e28e57871608cd.png" class="jp-needs-light-background" />
+<img src="docs/assets/9b0bfc34fe36fd972bcd903671e28e57871608cd.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -4761,7 +4761,7 @@ mime-type="text/markdown">
 
 ### 7.1 Normalized autocovariance<a href="#7.1-Normalized-autocovariance" class="anchor-link">¶</a>
 
-![image-2.png](docs\assets\fc1b47a72e09cda0f6950f7163ba4774c685a5bb.png)
+![image-2.png](docs/assets/fc1b47a72e09cda0f6950f7163ba4774c685a5bb.png)
 
 </div>
 
@@ -4879,7 +4879,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\8fe1f2124a2076af272868572b4a78ebd4a08845.png" class="jp-needs-light-background" />
+<img src="docs/assets/8fe1f2124a2076af272868572b4a78ebd4a08845.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -4910,7 +4910,7 @@ mime-type="text/markdown">
 
 ### 7.2 Normalized cross-covariance<a href="#7.2-Normalized-cross-covariance" class="anchor-link">¶</a>
 
-![image.png](docs\assets\2dce752ba9b276b7af77d4fb6e0ba4a989365856.png)
+![image.png](docs/assets/2dce752ba9b276b7af77d4fb6e0ba4a989365856.png)
 
 </div>
 
@@ -5065,7 +5065,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\a72b0d2ed8a100b793b2a428c4268f1b2a74259b.png" class="jp-needs-light-background" />
+<img src="docs/assets/a72b0d2ed8a100b793b2a428c4268f1b2a74259b.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -5100,7 +5100,7 @@ mime-type="text/markdown">
 
 Equations from Thomson and Emery (2014) - Ch. 5.
 
-![image.png](docs\assets\2d2baae36c3bd19db543144a483f585519f85f84.png)
+![image.png](docs/assets/2d2baae36c3bd19db543144a483f585519f85f84.png)
 
 </div>
 
@@ -5215,7 +5215,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\a9ae2dbe2db911a7a841f2962f8023f6c4c276c6.png" class="jp-needs-light-background" />
+<img src="docs/assets/a9ae2dbe2db911a7a841f2962f8023f6c4c276c6.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -5251,13 +5251,13 @@ mime-type="text/markdown">
 The Discrete Fourier transform is calculated as follows in the script
 below.
 
-![image.png](docs\assets\c9b793b2c4b56cd4b5e84bbd5084c32e79a4e074.png)
+![image.png](docs/assets/c9b793b2c4b56cd4b5e84bbd5084c32e79a4e074.png)
 
 We check that our calculation adheres to Parseval's theorem, which
 states that signal energy in the time domain corresponds to energy in
 the frequency domain.
 
-![image-2.png](docs\assets\93c7bdfbfcb988368e08b334c30f95c899f47813.png)
+![image-2.png](docs/assets/93c7bdfbfcb988368e08b334c30f95c899f47813.png)
 
 Equations from Thomson and Emery (2014) - Ch. 5.
 
@@ -5396,7 +5396,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\766e7b864bd40c28dbdff2c9098ece02e9268ec4.png" class="jp-needs-light-background" />
+<img src="docs/assets/766e7b864bd40c28dbdff2c9098ece02e9268ec4.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -5597,7 +5597,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\be867477fb5bff4bf42cba81e09c5bf73c180105.png" class="jp-needs-light-background" />
+<img src="docs/assets/be867477fb5bff4bf42cba81e09c5bf73c180105.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -5798,7 +5798,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\9820d2bba8200ecf07be847b7e3546edb03cdf50.png" class="jp-needs-light-background" />
+<img src="docs/assets/9820d2bba8200ecf07be847b7e3546edb03cdf50.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -6001,7 +6001,7 @@ data-type="inline">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\45bff568c1b6b833992c79e4d3a53955411c5407.png" class="jp-needs-light-background" />
+<img src="docs/assets/45bff568c1b6b833992c79e4d3a53955411c5407.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -6209,7 +6209,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\3cd0557672e120d6415699c319ae63aa10cf30cb.png" class="jp-needs-light-background" />
+<img src="docs/assets/3cd0557672e120d6415699c319ae63aa10cf30cb.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -6442,7 +6442,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\3b97473dd4ebe8720060245cf70651765cd10138.png" class="jp-needs-light-background" />
+<img src="docs/assets/3b97473dd4ebe8720060245cf70651765cd10138.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -6687,7 +6687,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\32457bb9781c2c005e480a2399d5cb787ccb0640.png" class="jp-needs-light-background" />
+<img src="docs/assets/32457bb9781c2c005e480a2399d5cb787ccb0640.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -6729,7 +6729,7 @@ and here
 (<https://github.com/wschmelz/GeologicalModeling/raw/main/Data/RandomForest/Pix4d_1m_files.zip>),
 respectively.
 
-![image.png](docs\assets\c6d008ec5c3e9d3cbb61c0b76e4131d6e1bdffd3.png)
+![image.png](docs/assets/c6d008ec5c3e9d3cbb61c0b76e4131d6e1bdffd3.png)
 
 </div>
 
@@ -6933,7 +6933,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\e163e901abe949194b59518c27836e2e28698455.png" class="jp-needs-light-background" />
+<img src="docs/assets/e163e901abe949194b59518c27836e2e28698455.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -7152,7 +7152,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\231c26933ecdc26b21f89792d9f3d76b1072c4fc.png" class="jp-needs-light-background" />
+<img src="docs/assets/231c26933ecdc26b21f89792d9f3d76b1072c4fc.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -7182,7 +7182,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\1c80f2cd1de4cb8fae8217563b331e811c0b00bf.png" class="jp-needs-light-background" />
+<img src="docs/assets/1c80f2cd1de4cb8fae8217563b331e811c0b00bf.png" class="jp-needs-light-background" />
 
 </div>
 
@@ -7212,7 +7212,7 @@ mime-type="text/plain">
 
 <div class="jp-RenderedImage jp-OutputArea-output">
 
-<img src="docs\assets\cf6b7ddf6b0bdeece80e6ebee10e426c90c342df.png" class="jp-needs-light-background" />
+<img src="docs/assets/cf6b7ddf6b0bdeece80e6ebee10e426c90c342df.png" class="jp-needs-light-background" />
 
 </div>
 
